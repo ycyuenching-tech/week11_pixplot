@@ -1,0 +1,80 @@
+[
+    {
+        "images": [
+            3,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            28
+        ],
+        "img": "B24P31.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 1"
+    },
+    {
+        "images": [
+            4,
+            5,
+            9,
+            19,
+            27
+        ],
+        "img": "B24P30.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 2"
+    },
+    {
+        "images": [
+            10,
+            11,
+            12,
+            13,
+            20
+        ],
+        "img": "B24P23.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 3"
+    },
+    {
+        "images": [
+            1,
+            17,
+            18
+        ],
+        "img": "B24P21.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 4"
+    },
+    {
+        "images": [
+            6,
+            7,
+            8
+        ],
+        "img": "B24P11.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 5"
+    },
+    {
+        "images": [
+            14,
+            15,
+            16
+        ],
+        "img": "B24P19.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 6"
+    },
+    {
+        "images": [
+            0,
+            2
+        ],
+        "img": "B24P05.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 7"
+    }
+]
